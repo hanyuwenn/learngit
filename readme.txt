@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 add line in b
 add line in a
+modify in dev_1
